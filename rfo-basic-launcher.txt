@@ -1,0 +1,37 @@
+rfo-basic-launcher readme
+=========================
+
+Usage:
+------
+
+If you chose to install the Notepad++ shortcut, hit Shift+F5 when editing
+your .bas program in Notepad++ and it will be sent to your Android device.
+
+If you use another editor, you can register a shortcut to launch 
+"Z:\RFO-BASIC!\!BASIC Launcher\client (PC)\rfo-basic-launcher.exe"
+followed by the editor code for the current file being edited.
+Read your editor help in order to write the proper command line.
+
+In any other case, you can drag and drop your .bas on this executable
+or its desktop shortcut to have it transfered to your Android device.
+
+1. WiFi mode: (recommended)
+-------------
+
+- Make sure that you have RFO BASIC! installed on your Android device:
+https://play.google.com/store/apps/details?id=com.rfo.Basic
+
+- Install the BASIC! Launcher (WiFi) app on your Android device:
+https://play.google.com/store/apps/details?id=com.rfo.BASICLauncher
+
+- Computer and Android device need to be on the same LAN so they
+  can autodetect each other (typically connected to the same box)
+
+2. USB-debugging mode:
+----------------------
+
+It is also possible to transfer the file by cable between your computer
+and the Android device. For this, you need to enable the USB-debugging
+option on your device and have the device correctly detected by your
+computer. This mode is harder to set up and we do not recommend it.
+
